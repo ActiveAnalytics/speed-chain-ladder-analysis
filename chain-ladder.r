@@ -1,5 +1,5 @@
 require(Rcpp)
-sourceCpp("gitCL.cpp")
+sourceCpp("chain-ladder.cpp.cpp")
 
 
 # Age-To-Age Factors
